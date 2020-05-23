@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/Donking47/animated-lamp)](https://repl.it/github/Donking47/animated-lamp)
+
 # [Screenshotit_bot](https://tx.me/screenshotit_bot)
 > Telegram Bot For Screenshot Generation
 
